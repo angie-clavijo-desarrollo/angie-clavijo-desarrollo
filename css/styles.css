@@ -169,7 +169,7 @@ header .textos-header{
 .card__img{
     width: 95%;
     height: 200px;
-    object-fit: cover;
+    object-fit: scale-down;
     border-radius: 10px 0 0 10px;
 }
 
